@@ -1,0 +1,7 @@
+"F:\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=F:/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\zevss\CLionProjects\untitled6 -B C:\Users\zevss\CLionProjects\untitled6\cmake-build-debug
+CMake Error at CMakeLists.txt:20 (target_link_libraries):
+  Cannot specify link libraries for target "untited6" which is not built by
+  this project.
+
+
+-- Configuring incomplete, errors occurred!
